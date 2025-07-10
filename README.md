@@ -24,5 +24,7 @@ Phase 3: Develop VR interface and test real-world use cases.
 
 Join the Mission
 We’re early—vision board and repo just kicked off! Seeking developers, AI experts, and VR enthusiasts to co-create. Ping me at [bempongherbert@gmail.com] or open an issue. Let’s make history.
+
 License
-MIT - Free to innovate, collaborate, and disrupt!
+## License
+Apache License 2.0 - Open for collaboration, protected for scale. Check [LICENSE](LICENSE) for details. Let’s build something epic together!
