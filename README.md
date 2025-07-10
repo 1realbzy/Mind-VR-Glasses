@@ -23,6 +23,6 @@ Phase 2: Prototype EEG-AI integration with Uhuru/Alke.
 Phase 3: Develop VR interface and test real-world use cases.
 
 Join the Mission
-We’re early—vision board and repo just kicked off! Seeking developers, AI experts, and VR enthusiasts to co-create. Ping me at [your-email@example.com] or open an issue. Let’s make history.
+We’re early—vision board and repo just kicked off! Seeking developers, AI experts, and VR enthusiasts to co-create. Ping me at [bempongherbert@gmail.com] or open an issue. Let’s make history.
 License
 MIT - Free to innovate, collaborate, and disrupt!
